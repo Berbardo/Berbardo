@@ -1,5 +1,12 @@
 
-# 🚧 Work in Progress
+![Bernardo Coutinho](/res/Bernardo_Coutinho.gif)
+
+## 👨‍💻 About Me
+
+ - Computer Engineering Undergraduate
+ - Machine Learning Student
+ - Reinforcement Learning Enthusiast
+ - Member [@GrupoTuring](https://github.com/GrupoTuring) and [@ThundeRatz](https://github.com/ThundeRatz)
 
 ## 👷‍♂️ Projects
 
