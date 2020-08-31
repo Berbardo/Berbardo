@@ -1,5 +1,4 @@
-
-![Bernardo Coutinho](/res/Bernardo_Coutinho.gif)
+![Bernardo Coutinho](https://media.giphy.com/media/iJbepLIHKvh524XXcu/giphy.gif)
 
 ## 👨‍💻 About Me
 
