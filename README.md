@@ -1,4 +1,4 @@
-![Bernardo Coutinho](https://media.giphy.com/media/iJbepLIHKvh524XXcu/giphy.gif)
+![Bernardo Coutinho](https://drive.google.com/uc?export=view&id=1DtcsbsWoY1-4ONV7Q30OHYL9lEGDt87p)
 
 ## 👨‍💻 About Me
 
