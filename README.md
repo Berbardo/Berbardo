@@ -1,4 +1,4 @@
-<img src="https://github.com/Berbardo/Berbardo/blob/master/img/CV2.gif?raw=true" width="2000" />
+<img src="https://github.com/Berbardo/Berbardo/blob/master/img/CVOptimized.gif?raw=true" width="2000" />
 
 ## 👨‍💻 About Me
 
