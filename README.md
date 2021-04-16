@@ -5,7 +5,7 @@
  - Computer Engineering Undergraduate
  - Machine Learning Student
  - Reinforcement Learning Enthusiast
- - Member [@GrupoTuring](https://github.com/GrupoTuring) and [@ThundeRatz](https://github.com/ThundeRatz)
+ - Member [@GrupoTuring](https://github.com/GrupoTuring)
 
 ## 👷‍♂️ Projects
 
